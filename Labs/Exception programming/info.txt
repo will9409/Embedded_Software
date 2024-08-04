@@ -1,8 +1,0 @@
-1. LR레지스터값 스택에 저장
-2. 현재 u-boot 스택포인터인 sp값을 _saved_sp로 저장
-3. ARM은 Reset후에 supervisor mode로 시작되므로 sp설정을 _svc_stack으로 한다.
-
-4. 벡터 베이스 레지스터 값 저장
-mrc : coprocessor instruction으로,
-mrc p15, #0, r4, c12, c0, #0 = cp15코프로세서 c12레지스터에서  op1 = 0 , crn = c0, op2 = 0의 레지스터값인 VBAR
-Vector Base Address Register 값을 r4에 저장
