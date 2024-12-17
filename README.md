@@ -5,6 +5,7 @@ BeagleBoard에 U-boot 부트로더로 부팅하고 TeraTerm으로 Linux 개발�
 
 ## Running the tests
 세마포어 프로그램 코드
+
 <img src="https://github.com/user-attachments/assets/a9aff409-10e9-4af0-ae7f-f238f19d5bd0"  width="600" height="1200"/>
 
 <img src="https://github.com/user-attachments/assets/d180eea9-ed9b-4788-aa55-015b1165d384"  width="600" height="300"/>
