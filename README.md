@@ -5,7 +5,8 @@ BeagleBoard에 U-boot 부트로더로 부팅하고 TeraTerm으로 Linux 개발�
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+<img src="https://github.com/user-attachments/assets/a9aff409-10e9-4af0-ae7f-f238f19d5bd0"  width="400" height="300"/>
+
 
 
 
