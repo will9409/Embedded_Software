@@ -9,7 +9,7 @@ BeagleBoard에 U-boot 부트로더로 부팅하고 TeraTerm으로 Linux 개발�
 
 <img src="https://github.com/user-attachments/assets/d180eea9-ed9b-4788-aa55-015b1165d384"  width="400" height="400"/>
 
-<img src="https://github.com/user-attachments/assets/e961752c-5d83-4c01-b3d4-1484489fe8ac"  width="400" height="600"/>
+<img src="https://github.com/user-attachments/assets/e961752c-5d83-4c01-b3d4-1484489fe8ac"  width="400" height="400"/>
 
 
 ## Acknowledgments
